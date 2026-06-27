@@ -4,7 +4,7 @@ Data Science and AI specialist with 3+ years of professional software engineerin
 
 My background spans the full stack. From building production React applications for healthcare clients to developing end-to-end ML pipelines, RAG systems, and deep learning models. I'm interested in applying AI to problems that genuinely matter.
 
-🌐 **Portfolio:** [Click here for my portfolio website](https://portfolio-self-pi-31.vercel.app/)
+🌐 <strong>Portfolio:</strong> <a href="https://portfolio-self-pi-31.vercel.app/" target="_blank">Click here for my portfolio website</a>
 
 ---
 
