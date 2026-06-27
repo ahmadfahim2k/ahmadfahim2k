@@ -2,7 +2,7 @@
 
 Data Science and AI specialist with 3+ years of professional software engineering experience, currently completing a **Master's in Advanced Data Science and AI** at the University of Liverpool.
 
-My background spans the full stack — from building production React applications for healthcare clients to developing end-to-end ML pipelines, RAG systems, and deep learning models. I'm interested in applying AI to problems that genuinely matter.
+My background spans the full stack. From building production React applications for healthcare clients to developing end-to-end ML pipelines, RAG systems, and deep learning models. I'm interested in applying AI to problems that genuinely matter.
 
 🌐 **Portfolio:** [Click here for my portfolio website](https://portfolio-self-pi-31.vercel.app/)
 
@@ -44,7 +44,7 @@ My background spans the full stack — from building production React applicatio
 | [Vehicle Damage Prediction](https://github.com/ahmadfahim2k/dl-project-vehicle-damage-detection) | Transfer learning classifier across 6 damage categories | PyTorch, ResNet50, FastAPI, Streamlit |
 | [Healthcare Premium](https://github.com/ahmadfahim2k/ml-project-healthcare-premium) | Age-stratified regression model for insurance premiums | XGBoost, Pandas, Streamlit |
 | [Credit Risk Modelling](https://github.com/ahmadfahim2k/ml-project-credit-risk-model) | Loan default predictor with 300–900 credit score output | Logistic Regression, SMOTE, Streamlit |
-
+| [Stock Analyzer](https://github.com/ahmadfahim2k/stock-analyzer-group-project) | Full-stack financial crisis analysis tool across 3,158 US equity tickers | FastAPI, Next.js, Recharts, Groq, Docker |
 ---
 
 ## 📊 GitHub Stats
